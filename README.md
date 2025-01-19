@@ -1,4 +1,4 @@
-Face Detection using OpenCV
+Face Detection using OpenCV		
 This is a simple Python project that uses OpenCV for face detection in real-time from webcam input. The project demonstrates how computer vision can be used to detect faces in images or video streams.
 
 Abstract
